@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SiegfriedAnselm
 - 👀 I’m interested in Sport, Motorbikes and Singing
-- 🌱 I’m currently learning pragrimming Frontend
+- 🌱 I’m currently learning pragramming Frontend
 - 💞️ I’m looking to collaborate on... where ever the wind takes me :D
 - 📫 How to reach me ...
 
